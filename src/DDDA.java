@@ -4,6 +4,8 @@ public class DDDA {
                  System.out.println("Creacion de clase de prueba para conexion con GITHUB desde ECLIPSE");
                  
                  System.out.println("Modificacion para prueba de segundo commit");
+
+		 System.out.println("Modificación de Samuel")
         }
 
 }
